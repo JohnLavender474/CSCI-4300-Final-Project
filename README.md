@@ -1,4 +1,4 @@
-# Restaurant Grub (AKA Corn Grub)
+# Restaurant grub (AKA Corn grub)
 ## MERN project for CSCI 4300 Web Programming
 
 ---

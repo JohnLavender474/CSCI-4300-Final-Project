@@ -1,4 +1,4 @@
-# Corn Grub
+# Restaurant Grub (AKA Corn Grub)
 ## React project for CSCI 4300 Web Programming
 
 ---

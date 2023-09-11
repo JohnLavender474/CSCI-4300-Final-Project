@@ -1,5 +1,5 @@
 # Restaurant Grub (AKA Corn Grub)
-## React project for CSCI 4300 Web Programming
+## MERN project for CSCI 4300 Web Programming
 
 ---
 
